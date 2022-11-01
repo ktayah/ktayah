@@ -9,7 +9,7 @@ Full-stack software engineer with three years of experience who loves building s
 * 🌍  I'm based in Philadelphia
 * 🖥️  See my portfolio at [my website](http://www.ktayah.com)
 * ✉️  You can contact me at [kevintayah@gmail.com](mailto:kevintayah@gmail.com)
-* 🚀  I'm currently working on [Lume Finance](http://lume.finance)
+* 🚀  I'm currently working on [WithBelay](https://withbelay.com)
 * 🧠  I'm learning Elixir Phoenix & Rust
 * 🤝  I'm open to collaborating on elixir tools and open-source libraries
 * ⚡  I like to rock climb!
