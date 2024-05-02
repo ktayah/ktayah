@@ -12,6 +12,7 @@ Full-stack software engineer with three years of experience who loves building s
 * 🚀  I'm currently working on [WithBelay](https://withbelay.com)
 * 🤝  I'm open to collaborating on elixir tools and open-source libraries
 * ⚡  I like to rock climb!
+* 📙 Checkout my new library [TypedStructDataFrame](https://hex.pm/packages/typed_struct_data_frame)
 
 ### Skills
 
